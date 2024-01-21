@@ -849,6 +849,9 @@ section {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
+.contact .info iframe{
+  border:0; width: 100%; height: 290px;
+}
 .contact .info i {
   font-size: 20px;
   color: #149ddd;
