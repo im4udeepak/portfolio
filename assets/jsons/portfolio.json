@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "FairPair",
+        "description": "GetFairPair.com offers a unique platform connecting individuals seeking equitable partnerships for various endeavors. Whether you're searching for a business collaborator, a co-founder, or a creative partner, the website facilitates fair matches based on mutual goals and values. Join to discover synergistic connections for your next venture.",
+        "category": "Web development",
+        "client": "Techahead",
+        "projectYear": "2023-24",
+        "url": "https://stage.getfairpair.com/",
+        "images": []
+    },
+    {
+        "id": 2,
+        "title": "Alz-Meter",
+        "description": "Alzmeter.com is a website dedicated to providing comprehensive information and resources about Alzheimer's disease. It offers tools for tracking symptoms, managing medications, and accessing support networks. The platform aims to empower patients, caregivers, and healthcare professionals with knowledge and tools to navigate the challenges of Alzheimer's effectively.",
+        "category": "Web design/development",
+        "client": "Techahead",
+        "projectYear": "2023",
+        "url": "https://www.alzmeter.com/",
+        "images": []
+    },
+    {
+        "id": 3,
+        "title": "Applykart",
+        "description": "Applykart is a website akin to a job hiring consultancy. It assists individuals in finding suitable job opportunities by matching their skills and preferences with available positions. With user-friendly interface and personalized assistance, Applykart streamlines the job application process, helping candidates secure employment effectively and efficiently.",
+        "category": "Web design",
+        "client": "Techahead",
+        "projectYear": "2022-23",
+        "url": "https://applykart.co/",
+        "images": []
+    },
+    {
+        "id": 4,
+        "title": "Acres - Real Estate",
+        "description": "Acres is a real estate website on steroids. It is a clean, premium and modern Html Template which can be used to create any site for multiple scenarios. Some of the templates that Acres can be used for are: Real estate agency, broker websites, IDX site, Single agent portfolio, Interior design showcase and much more Acres comes with all the required files to create your stunning website. This template is responsive on literally any screen size, this way you can worry less about interface, and focus on what is important. Use Cookiteer, and create something amazing!",
+        "category": "Web design",
+        "client": "Abed Shatela",
+        "projectYear": "2021",
+        "url": "http://androthemes.com/themes/html/acres/",
+        "images": []
+    },
+    {
+        "id": 5,
+        "title": "Tour Operator India",
+        "description": "ToursOperatorIndia.com offers personalized travel experiences across India. From cultural tours to adventure trips, they cater to diverse interests and budgets. With expert guides and customizable itineraries, the website ensures unforgettable journeys. Whether exploring iconic landmarks or hidden gems, it's your gateway to immersive and authentic Indian travel adventures.",
+        "category": "Web design",
+        "client": "Dharamvir Ahluwalia",
+        "projectYear": "2018",
+        "url": "https://www.toursoperatorindia.com/",
+        "images": []
+    },
+    {
+        "id": 6,
+        "title": "Kerala Tour Operator",
+        "description": "https://www.keralatoursoperatorindia.com/ offers comprehensive travel services for exploring Kerala, India. With tailored tour packages, it showcases the state's rich culture, scenic beauty, and heritage sites. From backwater cruises to wildlife safaris, the site ensures memorable experiences. It provides hassle-free booking and expert guidance for an immersive Kerala travel adventure.",
+        "category": "Web design",
+        "client": "Dharamvir Ahluwalia",
+        "projectYear": "2018-19",
+        "url": "https://www.keralatoursoperatorindia.com/",
+        "images": []
+    },
+    {
+        "id": 7,
+        "title": "Luxury Trains in India",
+        "description": "Luxetrains.com offers luxury train travel experiences worldwide, showcasing opulent journeys aboard iconic trains. The website provides detailed information on routes, amenities, and booking options for travelers seeking unique and extravagant rail adventures. With a focus on luxury and comfort, Luxetrains.com caters to discerning travelers looking for unforgettable travel experiences on the rails.",
+        "category": "Web design",
+        "client": "Dhruv Ahluwalia",
+        "projectYear": "2018-19",
+        "url": "https://www.luxetrains.com/",
+        "images": []
+    },
+    {
+        "id": 8,
+        "title": "Ziana - Digital Agency",
+        "description": "Ziana – Digital Agency HTML Template. is the best design for Business 2021. any kinds of Business Template Based on Bootstrap, 12 column Responsive grid Template. ‘Ziana’ is a smooth and colorful HTML Template, perfect suitable for , Businesses HTML Template. It includes everything you need for the website development such as Ziana – Digital Agency HTML Template. HTML files are well organized also you can customize very easy",
+        "category": "Web design",
+        "client": "Hamza Shatela",
+        "projectYear": "2019",
+        "url": "https://metropolitanhost.com/themes/themeforest/html/ziana/",
+        "images": []
+    },
+    {
+        "id": 9,
+        "title": "Docfind - Doctors Appointment Booking",
+        "description": "Doctors directory and Book Online HTML5 Template was created mainly for a medical listing directory, but it can be used for dental clinics and other doctors, dental care, personal dental practice, cosmetic dentistry services, medical clinics with other dentist services, etc.",
+        "category": "Web design",
+        "client": "Hamza Shatela",
+        "projectYear": "2019-20",
+        "url": "https://metropolitanhost.com/themes/themeforest/react/docfind/",
+        "images": []
+    }
+]
